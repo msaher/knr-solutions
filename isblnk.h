@@ -1,0 +1,1 @@
+int isblnk(int c); 
